@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Temporary Files
+*.tmp
+*.bak
+
+# Python Build
+build/
+dist/
+*.egg-info/
+
+# Environment Variables
+.env
+
+# Cache
+.cache/
+
+# Generated Outputs (Optional)
+outputs/tables/*
+outputs/figures/*
+
+# Keep folders
+!outputs/tables/.gitkeep
+!outputs/figures/.gitkeep
