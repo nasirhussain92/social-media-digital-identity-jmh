@@ -1,0 +1,30 @@
+Variable,Question,Construct,Scale,Reverse_Scored,Composite
+SMU1,"I use social media several times a day.",Social Media Usage,"1–5 Likert",No,SMU
+SMU2,"Social media is an important part of my daily routine.",Social Media Usage,"1–5 Likert",No,SMU
+SMU3,"I actively like, comment, or share posts.",Social Media Usage,"1–5 Likert",No,SMU
+SMU4,"I follow updates, trends, and content regularly.",Social Media Usage,"1–5 Likert",No,SMU
+SMU5,"I feel the need to stay updated on social media activities.",Social Media Usage,"1–5 Likert",No,SMU
+DI1,"I carefully choose what I post to create a certain image.",Digital Identity,"1–5 Likert",No,DI
+DI2,"I think about how others will perceive me before posting.",Digital Identity,"1–5 Likert",No,DI
+DI3,"I edit photos or videos before uploading them.",Digital Identity,"1–5 Likert",No,DI
+DI4,"My profile reflects how I want others to see me.",Digital Identity,"1–5 Likert",No,DI
+DI5,"I sometimes feel pressure to maintain a certain image online.",Digital Identity,"1–5 Likert",No,DI
+EC1,"I use social media to distract myself when stressed.",Emotional Coping,"1–5 Likert",No,EC
+EC2,"Watching relatable content helps improve my mood.",Emotional Coping,"1–5 Likert",No,EC
+EC3,"Positive comments or reactions make me feel emotionally better.",Emotional Coping,"1–5 Likert",No,EC
+EC4,"I turn to social media when I am unhappy.",Emotional Coping,"1–5 Likert",No,EC
+SC1,"I compare my lifestyle with others on social media.",Social Comparison,"1–5 Likert",No,SC
+SC2,"I sometimes feel inferior after seeing others' achievements online.",Social Comparison,"1–5 Likert",No,SC
+SC3,"Social media influences how I evaluate my own success.",Social Comparison,"1–5 Likert",No,SC
+SC4,"I assess my appearance based on others online.",Social Comparison,"1–5 Likert",No,SC
+SC5,"I feel pressure to achieve what others portray online.",Social Comparison,"1–5 Likert",No,SC
+SE1,"On the whole, I am satisfied with myself.",Self-Esteem,"1–5 Likert",No,SE
+SE2,"At times, I think I am no good at all.",Self-Esteem,"1–5 Likert",Yes,SE
+SE3,"I feel I have a number of good qualities.",Self-Esteem,"1–5 Likert",No,SE
+SE4,"I am able to do things as well as most people.",Self-Esteem,"1–5 Likert",No,SE
+SE5,"I feel I do not have much to be proud of.",Self-Esteem,"1–5 Likert",Yes,SE
+SE6,"I take a positive attitude toward myself.",Self-Esteem,"1–5 Likert",No,SE
+SE7,"I wish I could have more respect for myself.",Self-Esteem,"1–5 Likert",Yes,SE
+SE8,"I feel useless at times.",Self-Esteem,"1–5 Likert",Yes,SE
+SE9,"I feel that I'm a person of worth.",Self-Esteem,"1–5 Likert",No,SE
+SE10,"I sometimes think I am a failure.",Self-Esteem,"1–5 Likert",Yes,SE
