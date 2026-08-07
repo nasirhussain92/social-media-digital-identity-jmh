@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+
+message: "If you use this repository, please cite the accompanying research article and this repository."
+
+title: "Digital Identity and Emotional Coping Among Young Adults on Instagram and TikTok"
+
+authors:
+  - family-names: Hussain
+    given-names: Nasir
+
+repository-code: "https://github.com/nasirhussain92/social-media-digital-identity-jmh"
+
+license: MIT
+
+abstract: >
+  Reproducibility package containing the anonymized dataset,
+  computational notebook, analysis scripts,
+  and supporting resources used in the empirical study
+  'Digital Identity and Emotional Coping Among Young Adults on Instagram and TikTok'.
+
+keywords:
+  - Social Media
+  - Instagram
+  - TikTok
+  - Digital Identity
+  - Emotional Coping
+  - Social Comparison
+  - Self-Esteem
+  - Psychology
+  - Reproducible Research
+  - Open Science
