@@ -1,28 +1,29 @@
-# Social Media Use, Digital Identity Expression, Emotional Coping, and Self-Esteem
+# Digital Identity and Emotional Coping Among Young Adults on Instagram and TikTok
 
-## Reproducibility Package
+## Research Reproducibility Package
 
-This repository provides the reproducibility package for the research study:
+This repository provides the complete reproducibility package for the research article:
 
-> **Social Media Use, Digital Identity Expression, Emotional Coping, and Self-Esteem: An Integrated Analysis of Young Adults' Online Psychological Dynamics**
+> **Digital Identity and Emotional Coping Among Young Adults on Instagram and TikTok**
 
-The repository contains the anonymized dataset, computational notebook, analysis scripts, and supporting materials required to reproduce the statistical analyses reported in the accompanying research article.
+The repository contains the anonymized dataset, computational notebook, analysis scripts, and supporting resources required to reproduce the statistical analyses reported in the study.
 
 ---
 
-## Repository Contents
+## Repository Structure
 
-```
+```text
 social-media-digital-identity-jmh/
 
 ├── README.md
 ├── LICENSE
 ├── CITATION.cff
 ├── requirements.txt
+├── .gitignore
 │
 ├── data/
 │   ├── social_media_dataset.csv
-│   └── codebook.xlsx
+│   └── codebook.csv
 │
 ├── notebooks/
 │   └── JMH_Reproducibility_Notebook.ipynb
@@ -42,55 +43,72 @@ social-media-digital-identity-jmh/
 
 ---
 
-## Study Design
+## Study Overview
 
-The study investigates the relationship between social media use and self-esteem among young adults through the following constructs:
+This study investigates the relationship between social media use and the psychological well-being of young adults using Instagram and TikTok.
 
-- Social Media Usage
-- Digital Identity Expression
-- Emotional Coping
-- Social Comparison
-- Self-Esteem
+The analytical framework examines the following constructs:
 
-Statistical analyses include:
+- **Independent Variable**
+  - Social Media Usage
 
-- Reliability Analysis (Cronbach's Alpha)
-- Descriptive Statistics
-- Pearson Correlation
-- Multiple Regression
-- Mediation Analysis
+- **Mediating Variables**
+  - Digital Identity
+  - Emotional Coping
+  - Social Comparison
+
+- **Dependent Variable**
+  - Self-Esteem
+
+- **Moderator**
+  - Platform Type (Instagram vs. TikTok)
 
 ---
 
-## Computational Reproducibility
+## Statistical Analyses
 
-The Google Colab notebook reproduces the complete analytical workflow from the anonymized dataset to the statistical results reported in the study.
-
-The notebook includes:
+The computational workflow reproduces the analyses reported in the manuscript, including:
 
 - Data preparation
 - Variable construction
 - Reverse scoring
-- Reliability analysis
-- Descriptive statistics
-- Correlation analysis
-- Regression analysis
-- Mediation analysis
-- Generation of publication-ready tables
+- Reliability Analysis (Cronbach's Alpha)
+- Descriptive Statistics
+- Pearson Correlation Analysis
+- Multiple Regression Analysis
+- Mediation Analysis (Baron & Kenny)
+- Sobel Test
+- Publication-ready tables
 
 ---
 
-## Data Availability
+## Dataset
 
-The anonymized dataset and analysis scripts are openly available for research transparency and reproducibility.
+The repository contains an anonymized survey dataset collected from university students.
 
-A permanent archived version of this repository will be released through Zenodo and assigned a citable DOI.
+Personally identifiable information has been removed to protect participant confidentiality.
+
+---
+
+## Reproducibility
+
+The Google Colab notebook reproduces the complete analytical workflow directly from the dataset included in this repository.
+
+Running the notebook will reproduce the statistical analyses and outputs reported in the manuscript.
 
 ---
 
 ## Citation
 
-Citation information and DOI will be added after publication.
+Citation details will be updated following publication.
+
+---
+
+## Data Availability
+
+The anonymized dataset, computational notebook, analysis scripts, and supporting documentation are openly available in this repository to facilitate transparency and reproducibility.
+
+A permanent archived version of this repository will be released through Zenodo and assigned a citable DOI.
 
 ---
 
@@ -110,6 +128,10 @@ Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 **Nasir Hussain**
 
+Assistant Registrar
+
 Karachi Institute of Economics and Technology (KIET)
 
 Karachi, Pakistan
+
+GitHub: https://github.com/nasirhussain92
