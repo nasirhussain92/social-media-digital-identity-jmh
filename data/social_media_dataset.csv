@@ -1,0 +1,267 @@
+Timestamp,Consent,Age,Gender,University,DegreeProgram,Platform,DailyUsage,SMU1,SMU2,SMU3,SMU4,SMU5,DI1,DI2,DI3,DI4,DI5,EC1,EC2,EC3,EC4,SC1,SC2,SC3,SC4,SC5,SE1,SE2,SE3,SE4,SE5,SE6,SE7,SE8,SE9,SE10
+12/11/2025 14:16:24,Yes,30+,Male,KIET,Masters (MBA/MS/MPhill),Both,3–5 hours,2,1,1,1,4,5,5,3,3,1,4,5,5,4,1,3,3,1,1,5,3,5,1,1,5,5,1,5,3
+12/11/2025 14:31:54,Yes,30+,Male,KIET,Masters (MBA/MS/MPhill),Both,Less than 1 hour,5,5,5,4,4,5,5,5,5,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+12/11/2025 14:32:20,Yes,30+,Male,Arena Multimedia ,Diploma ,Both,5+ hours,5,5,5,5,5,5,5,5,5,5,3,5,5,5,3,5,2,5,4,5,5,5,5,5,5,5,5,5,5
+12/11/2025 14:35:01,Yes,23–26,Female,IQRA,Bachelors (BS/BA/BBA),Instagram,Less than 1 hour,5,5,1,1,5,5,5,1,1,1,5,5,5,5,1,1,1,1,1,5,5,5,1,1,5,5,1,5,1
+12/11/2025 14:36:17,Yes,23–26,Female,KIET,Masters (MBA/MS/MPhill),Both,1–3 hours,4,4,1,5,5,5,5,5,5,5,5,5,5,5,1,1,2,1,1,5,1,5,5,1,5,1,1,5,1
+12/11/2025 14:38:08,Yes,30+,Male,KIET,Masters (MBA/MS/MPhill),Both,Less than 1 hour,5,5,5,5,5,5,5,4,4,5,5,4,5,3,1,1,3,2,1,5,1,5,5,1,5,1,1,5,1
+12/11/2025 14:39:16,Yes,27–30,Male,IoBM,Bachelors (BS/BA/BBA),Instagram,Less than 1 hour,2,2,5,4,3,5,5,3,2,4,5,5,5,3,5,1,1,1,1,5,4,5,5,1,5,1,4,5,5
+12/11/2025 14:40:27,Yes,27–30,Male,KIET,Bachelors (BS/BA/BBA),Instagram,Less than 1 hour,5,3,3,1,4,5,4,4,4,3,4,5,4,3,1,1,1,1,1,5,1,5,4,3,4,3,1,2,1
+12/11/2025 14:42:23,Yes,30+,Male,KIET,Bachelors (BS/BA/BBA),Instagram,1–3 hours,4,1,1,1,1,5,1,1,1,1,4,4,1,4,1,1,1,1,1,5,1,4,5,3,1,1,1,5,1
+12/11/2025 14:43:58,Yes,18–22,Male,IQRA,Bachelors (BS/BA/BBA),Instagram,5+ hours,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+12/11/2025 14:45:52,Yes,30+,Male,KIET,Masters (MBA/MS/MPhill),Instagram,Less than 1 hour,3,2,3,3,3,5,5,3,5,5,5,5,5,3,1,2,1,2,1,5,3,5,3,3,5,5,2,5,1
+12/11/2025 14:47:17,Yes,30+,Male,Arena Multimedia ,DAE,TikTok,5+ hours,5,5,5,2,4,5,5,2,4,4,5,5,5,5,2,1,1,1,1,5,5,4,4,4,4,4,2,4,3
+12/11/2025 14:47:47,Yes,27–30,Male,KIET,Bachelors (BS/BA/BBA),Instagram,Less than 1 hour,3,2,2,1,1,3,5,4,2,1,1,1,1,1,1,1,1,1,1,5,3,3,5,3,5,3,3,5,3
+12/11/2025 14:48:05,Yes,18–22,Male,KIET ,Bachelors (BS/BA/BBA),Instagram,3–5 hours,5,5,5,5,5,5,1,5,5,1,3,5,5,1,1,1,5,1,1,5,3,4,4,4,5,1,5,5,5
+12/11/2025 14:50:08,Yes,27–30,Female,Bahria University,Masters (MBA/MS/MPhill),Instagram,5+ hours,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,1,1,5,1
+12/11/2025 14:51:46,Yes,23–26,Male,KIET,Bachelors (BS/BA/BBA),Instagram,1–3 hours,5,5,3,1,5,5,1,5,5,5,1,1,1,1,1,1,1,1,1,5,1,5,5,1,5,5,5,5,1
+12/11/2025 14:56:17,Yes,18–22,Female,IQRA,Bachelors (BS/BA/BBA),Instagram,Less than 1 hour,5,1,2,1,1,5,3,1,1,1,3,3,1,3,3,3,1,1,1,4,3,3,3,2,3,3,3,3,5
+12/11/2025 14:57:24,Yes,23–26,Female,Arena Multimedia ,Bachelors (BS/BA/BBA),Instagram,1–3 hours,4,2,3,2,3,5,2,3,1,1,4,4,3,4,2,2,3,2,1,4,4,5,4,4,2,2,2,1,3
+12/11/2025 15:00:11,Yes,30+,Male,KIET,Bachelors (BS/BA/BBA),Instagram,Less than 1 hour,5,5,3,1,3,5,5,1,3,1,3,3,3,1,1,3,3,3,3,5,3,3,3,3,3,3,3,3,3
+12/11/2025 15:04:16,Yes,30+,Female,IoBM,Masters (MBA/MS/MPhill),Instagram,Less than 1 hour,3,4,3,3,4,5,5,5,4,3,4,4,4,3,4,1,4,4,3,5,4,4,3,4,5,5,3,3,3
+12/11/2025 15:07:57,Yes,18–22,Male,KIET,Bachelors (BS/BA/BBA),Instagram,Less than 1 hour,3,3,1,1,3,3,3,2,3,5,4,5,2,3,1,1,3,1,1,5,3,3,3,3,4,3,2,3,2
+12/11/2025 15:18:55,Yes,23–26,Female,KIET,Bachelors (BS/BA/BBA),Instagram,3–5 hours,2,3,3,2,1,5,5,3,2,3,4,2,3,3,1,1,2,3,1,3,2,1,5,1,1,2,5,1,1
+12/11/2025 15:24:26,Yes,30+,Male,Al Kawthar University ,Masters (MBA/MS/MPhill),TikTok,Less than 1 hour,5,5,4,5,5,4,4,4,4,4,3,4,4,3,2,1,4,2,3,5,1,4,4,4,5,5,1,5,1
+12/11/2025 15:33:39,Yes,23–26,Male,KIET,Bachelors (BS/BA/BBA),Instagram,1–3 hours,5,2,2,3,2,4,4,5,4,2,2,3,1,1,1,1,1,1,1,5,5,5,4,5,5,4,5,5,5
+12/11/2025 15:48:54,Yes,30+,Male,FUUAST,Masters (MBA/MS/MPhill),Instagram,Less than 1 hour,1,2,5,5,3,5,2,5,5,3,3,3,5,4,1,1,3,1,1,3,3,5,5,2,5,5,1,5,2
+12/11/2025 15:55:35,Yes,23–26,Male,KIET,Bachelors (BS/BA/BBA),Instagram,Less than 1 hour,3,2,1,2,3,3,3,4,4,3,5,4,5,3,3,3,1,1,1,3,3,3,3,3,3,3,3,3,3
+12/11/2025 15:56:20,Yes,23–26,Male,MAJU,Bachelors (BS/BA/BBA),Instagram,1–3 hours,3,3,1,3,4,3,3,3,3,3,4,4,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+12/11/2025 16:04:28,Yes,23–26,Male,KIET,Bachelors (BS/BA/BBA),Instagram,3–5 hours,4,4,4,3,4,4,1,2,4,1,4,4,5,1,3,3,3,4,3,4,4,4,3,2,4,2,1,4,2
+12/11/2025 16:21:52,Yes,30+,Female,KIET,Masters (MBA/MS/MPhill),Both,Less than 1 hour,3,3,2,3,3,2,3,3,3,3,3,3,4,3,3,3,3,3,2,4,4,4,4,3,4,3,3,4,2
+12/11/2025 16:21:53,Yes,23–26,Female,KIET,Masters (MBA/MS/MPhill),Instagram,1–3 hours,4,3,4,3,3,3,3,3,3,3,3,3,3,3,3,3,1,1,3,5,1,5,5,1,5,5,1,5,5
+12/11/2025 17:23:49,Yes,30+,Male,University of Karachi,Masters (MBA/MS/MPhill),Instagram,1–3 hours,3,3,3,3,3,3,3,4,5,3,5,5,5,3,1,5,1,1,1,3,1,3,1,5,3,5,5,3,5
+12/11/2025 18:49:01,Yes,30+,Female,University of Sindh,Teacher ,Both,Less than 1 hour,5,5,1,1,5,5,5,5,5,1,1,1,1,1,1,1,1,1,1,5,1,5,5,1,5,1,5,5,1
+12/11/2025 19:05:28,Yes,30+,Female,MAJU,Bachelors (BS/BA/BBA),TikTok,5+ hours,5,4,3,5,4,3,4,1,5,3,3,4,4,5,2,5,2,4,3,5,3,5,5,4,5,5,4,4,1
+12/11/2025 23:56:47,Yes,30+,Male,KIET,Masters (MBA/MS/MPhill),Both,Less than 1 hour,2,2,1,4,4,5,5,4,5,5,4,4,4,4,2,2,3,4,4,4,2,4,4,2,4,5,2,4,2
+13/11/2025 00:06:11,Yes,27–30,Female,IQRA,Bachelors (BS/BA/BBA),Both,5+ hours,5,5,5,5,5,5,5,5,5,5,4,5,5,5,4,5,4,5,5,3,4,2,2,5,2,5,5,2,2
+13/11/2025 10:24:29,Yes,27–30,Male,KIET,Bachelors (BS/BA/BBA),Instagram,1–3 hours,4,3,3,2,1,3,3,2,2,1,1,2,2,2,1,1,2,1,1,4,2,4,4,2,4,5,2,4,4
+13/11/2025 14:31:30,Yes,27–30,Female,KIET,Masters (MBA/MS/MPhill),Both,3–5 hours,4,2,1,1,1,4,4,4,4,2,5,4,4,4,2,2,2,4,2,4,4,4,4,4,4,4,2,4,2
+13/11/2025 14:41:02,Yes,30+,Male,KIET,Bachelors (BS/BA/BBA),Instagram,Less than 1 hour,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+13/11/2025 14:42:19,Yes,23–26,Male,MAJU,Bachelors (BS/BA/BBA),Instagram,1–3 hours,5,5,5,3,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+13/11/2025 14:52:09,Yes,30+,Male,KIET,Bachelors (BS/BA/BBA),TikTok,Less than 1 hour,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+13/11/2025 17:45:02,Yes,23–26,Female,KIET,Bachelors (BS/BA/BBA),Instagram,1–3 hours,5,4,3,4,4,5,3,2,4,2,4,4,3,4,1,2,3,2,2,4,3,4,4,4,4,4,4,4,3
+13/11/2025 18:07:54,Yes,23–26,Male,KIET,Bachelors (BS/BA/BBA),Instagram,3–5 hours,5,5,5,5,5,5,5,5,5,5,5,5,5,5,2,1,1,2,1,4,4,4,4,2,4,2,4,4,4
+13/11/2025 18:30:14,Yes,23–26,Male,KIET,Bachelors (BS/BA/BBA),Instagram,3–5 hours,5,5,5,5,5,5,5,5,5,5,5,5,5,5,1,1,1,1,1,4,4,4,4,1,4,1,1,5,1
+13/11/2025 21:22:41,Yes,27–30,Female,KIET,Masters (MBA/MS/MPhill),Instagram,5+ hours,5,5,4,5,5,5,4,3,4,4,4,5,4,2,4,4,4,2,3,5,5,4,4,3,5,4,5,5,5
+15/11/2025 15:24:38,Yes,30+,Male,IQRA,Bachelors (BS/BA/BBA),Instagram,Less than 1 hour,5,3,2,3,3,5,3,4,4,5,5,1,4,4,5,2,3,4,3,3,5,5,4,5,4,5,5,5,5
+15/11/2025 15:25:58,Yes,30+,Male,VIRTUAL UNIVERSITY,Bachelors (BS/BA/BBA),TikTok,1–3 hours,5,3,4,4,3,5,3,5,4,4,3,4,4,4,5,5,1,3,2,5,2,4,3,3,5,5,4,4,4
+15/11/2025 15:50:25,Yes,23–26,Female,KASBIT,Bachelors (BS/BA/BBA),Instagram,1–3 hours,4,5,1,1,1,1,1,1,1,1,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+15/11/2025 15:50:49,Yes,23–26,Female,KIET,Bachelors (BS/BA/BBA),Instagram,1–3 hours,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+15/11/2025 16:59:56,Yes,27–30,Female,TLC,Bachelors (BS/BA/BBA),Instagram,Less than 1 hour,3,5,1,1,1,5,5,1,5,3,5,5,1,3,1,1,1,1,1,5,2,5,5,1,5,3,1,5,1
+15/11/2025 17:49:50,Yes,27–30,Male,KIET,Masters (MBA/MS/MPhill),Both,1–3 hours,4,4,4,5,4,5,2,2,4,1,2,4,4,2,1,1,1,1,1,4,1,5,5,1,5,1,1,5,1
+15/11/2025 17:50:44,Yes,30+,Female,JPMC,Masters (MBA/MS/MPhill),Both,Less than 1 hour,5,5,2,2,2,5,5,5,5,1,1,4,1,4,1,1,3,2,1,4,2,5,5,1,5,5,1,5,1
+15/11/2025 17:52:59,Yes,23–26,Male,FUUAST,Bachelors (BS/BA/BBA),Instagram,1–3 hours,4,5,5,5,5,3,3,4,4,2,4,5,5,5,2,1,3,1,1,5,1,5,4,1,5,1,1,5,1
+16/11/2025 05:19:20,Yes,23–26,Male,KIET,Bachelors (BS/BA/BBA),Instagram,Less than 1 hour,2,3,1,4,2,4,2,4,2,2,2,2,2,2,2,2,2,2,2,4,2,4,2,3,3,3,3,3,3
+16/11/2025 06:37:11,Yes,23–26,Female,Government college university ,Bachelors (BS/BA/BBA),Instagram,Less than 1 hour,5,5,2,1,1,5,1,4,1,1,1,1,4,1,4,2,1,1,1,4,4,4,5,1,4,1,1,4,1
+16/11/2025 14:05:53,Yes,23–26,Male,MAJU,Bachelors (BS/BA/BBA),Instagram,5+ hours,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,3,5,4,3,5,2,2,4,2,4,2,4,3,4
+16/11/2025 14:08:15,Yes,23–26,Female,JPMC,Masters (MBA/MS/MPhill),Both,1–3 hours,4,3,2,4,3,5,5,5,5,5,2,3,4,2,4,3,4,4,2,4,2,4,4,2,4,2,4,4,2
+17/11/2025 12:15:48,Yes,23–26,Female,MAJU,Bachelors (BS/BA/BBA),Both,3–5 hours,5,4,4,4,4,2,2,4,4,4,4,4,4,4,2,2,2,2,2,5,1,5,5,1,5,5,1,5,1
+17/11/2025 12:25:30,Yes,23–26,Female,KIET,Bachelors (BS/BA/BBA),Instagram,5+ hours,5,5,5,5,5,5,5,5,5,5,5,5,5,5,2,2,5,5,2,5,5,5,5,5,5,5,2,5,2
+17/11/2025 14:00:16,Yes,30+,Male,IBA,Masters (MBA/MS/MPhill),Both,Less than 1 hour,1,1,1,1,1,1,1,3,1,1,3,2,1,5,5,5,3,5,5,1,5,1,1,5,1,5,5,1,5
+17/11/2025 14:06:52,Yes,23–26,Male,KIET,Bachelors (BS/BA/BBA),Both,Less than 1 hour,4,4,1,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+17/11/2025 16:19:32,Yes,23–26,Female,KIET,Bachelors (BS/BA/BBA),Instagram,1–3 hours,4,4,3,4,4,2,2,3,3,1,4,4,3,3,2,2,2,2,1,4,2,5,5,1,5,3,1,5,1
+17/11/2025 17:27:02,Yes,23–26,Male,KIET,Bachelors (BS/BA/BBA),Both,Less than 1 hour,5,4,1,3,5,5,5,5,5,5,4,5,4,4,2,2,5,5,5,5,5,5,5,5,5,3,5,3,4
+17/11/2025 17:32:20,Yes,18–22,Female,KIET,Bachelors (BS/BA/BBA),Instagram,3–5 hours,5,5,4,4,2,5,5,3,2,1,5,5,5,5,3,3,3,3,5,5,1,4,4,1,5,2,2,1,1
+17/11/2025 17:33:54,Yes,18–22,Male,KIET,Bachelors (BS/BA/BBA),Instagram,1–3 hours,4,4,4,4,4,4,4,2,2,2,4,4,4,4,2,2,4,4,2,4,4,4,4,2,4,4,2,2,2
+17/11/2025 17:36:13,Yes,18–22,Female,KIET,Bachelors (BS/BA/BBA),Instagram,5+ hours,5,3,3,2,2,4,3,4,4,2,4,4,3,4,2,2,2,3,2,4,2,3,4,3,3,4,3,4,2
+17/11/2025 17:38:15,Yes,27–30,Female,KIET,Masters (MBA/MS/MPhill),Both,Less than 1 hour,4,3,2,3,4,3,3,3,3,4,4,4,4,3,3,3,3,3,3,4,4,4,4,4,4,4,3,3,3
+17/11/2025 17:38:47,Yes,18–22,Female,KIET,Bachelors (BS/BA/BBA),Instagram,Less than 1 hour,2,2,4,3,2,4,5,2,5,2,4,4,4,2,2,2,4,2,2,4,2,4,3,2,4,4,2,2,2
+17/11/2025 17:39:17,Yes,27–30,Male,Nazeer Hussain University ,Masters (MBA/MS/MPhill),Both,1–3 hours,5,4,4,1,1,4,1,3,1,3,4,4,4,4,1,1,3,1,1,5,1,5,5,1,5,1,1,5,1
+17/11/2025 17:39:21,Yes,18–22,Female,KIET,Bachelors (BS/BA/BBA),Instagram,5+ hours,5,5,3,1,1,3,5,5,5,5,5,4,5,5,5,1,1,1,1,5,1,5,5,1,5,1,1,5,1
+17/11/2025 17:39:25,Yes,23–26,Female,KIET ,Bachelors (BS/BA/BBA),Instagram,1–3 hours,4,3,4,5,4,4,4,5,3,3,3,2,2,2,1,2,3,3,2,4,5,5,5,5,5,4,4,5,5
+17/11/2025 17:39:27,Yes,23–26,Female,KIET,Bachelors (BS/BA/BBA),TikTok,1–3 hours,5,5,1,1,1,5,5,2,3,1,3,2,3,1,1,2,1,1,1,4,1,5,5,1,5,1,3,5,2
+17/11/2025 17:40:29,Yes,18–22,Female,KIET,Bachelors (BS/BA/BBA),Instagram,1–3 hours,5,4,4,3,5,5,5,3,4,3,4,4,4,4,2,2,2,2,2,5,3,4,4,3,5,3,3,4,3
+17/11/2025 17:40:45,Yes,18–22,Female,KIET,Bachelors (BS/BA/BBA),Instagram,Less than 1 hour,1,2,1,2,5,5,1,1,1,1,1,1,1,2,1,1,1,1,1,5,2,5,5,1,5,5,1,5,1
+17/11/2025 17:42:11,Yes,23–26,Female,KIET,Bachelors (BS/BA/BBA),Instagram,1–3 hours,4,3,1,1,1,4,4,1,1,1,4,4,1,3,1,1,1,1,1,5,5,5,5,1,5,5,1,5,1
+17/11/2025 17:42:51,Yes,23–26,Female,KIET,Bachelors (BS/BA/BBA),Instagram,5+ hours,5,5,5,5,5,2,2,4,2,2,5,2,5,3,3,2,4,2,2,5,4,4,4,4,4,4,4,4,4
+17/11/2025 17:43:13,Yes,23–26,Female,KIET,Bachelors (BS/BA/BBA),Instagram,1–3 hours,5,4,4,3,2,5,4,4,4,4,4,4,4,4,2,3,4,2,2,4,2,4,4,1,4,4,2,4,1
+17/11/2025 17:43:22,Yes,23–26,Male,KIET,Bachelors (BS/BA/BBA),Instagram,1–3 hours,5,5,4,5,5,4,5,5,5,4,3,4,4,3,3,4,4,3,4,4,3,3,4,3,4,3,4,3,2
+17/11/2025 17:44:30,Yes,18–22,Female,KIET,Bachelors (BS/BA/BBA),Instagram,1–3 hours,5,3,3,1,1,5,3,3,3,1,3,4,4,2,1,1,3,1,1,4,2,4,4,2,4,3,2,4,3
+17/11/2025 17:46:36,Yes,18–22,Female,KIET,Bachelors (BS/BA/BBA),Instagram,Less than 1 hour,4,2,3,5,1,1,2,3,3,4,1,1,2,4,4,5,5,1,5,1,5,2,1,4,1,5,5,3,1
+17/11/2025 17:47:46,Yes,18–22,Male,KIET,Bachelors (BS/BA/BBA),Instagram,5+ hours,2,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,4,5,5
+17/11/2025 17:48:45,Yes,23–26,Female,KIET,Bachelors (BS/BA/BBA),Instagram,3–5 hours,3,3,1,1,1,4,4,3,3,5,4,4,4,4,1,1,1,1,1,3,3,3,3,3,3,2,1,3,1
+17/11/2025 17:50:51,Yes,18–22,Female,KIET,Bachelors (BS/BA/BBA),Instagram,5+ hours,1,1,1,1,1,3,1,1,2,2,2,1,1,1,1,2,2,1,2,1,1,1,2,3,2,2,4,2,5
+17/11/2025 17:50:57,Yes,18–22,Male,KIET,Bachelors (BS/BA/BBA),Both,Less than 1 hour,1,1,1,1,1,2,2,2,3,2,2,2,2,2,2,2,2,2,5,4,5,1,1,1,2,4,4,5,1
+17/11/2025 17:51:03,Yes,18–22,Male,KIET,Bachelors (BS/BA/BBA),Instagram,5+ hours,5,3,1,3,3,4,4,4,4,4,5,4,4,4,4,3,4,3,3,3,3,3,4,4,4,4,4,4,4
+17/11/2025 17:55:59,Yes,23–26,Female,KIET,Masters (MBA/MS/MPhill),TikTok,Less than 1 hour,4,4,3,4,4,3,1,1,3,3,4,4,4,1,1,1,1,1,1,4,1,5,5,1,5,1,1,5,1
+17/11/2025 17:59:10,Yes,18–22,Female,KIET,Bachelors (BS/BA/BBA),Instagram,1–3 hours,5,4,3,2,4,2,3,4,4,2,3,4,5,4,1,1,2,2,2,4,2,4,4,4,5,5,1,4,3
+17/11/2025 18:00:45,Yes,23–26,Male,KIET,Bachelors (BS/BA/BBA),Instagram,5+ hours,5,5,5,5,4,4,4,4,4,4,5,4,3,4,4,3,3,3,4,2,4,5,5,5,5,3,5,5,4
+17/11/2025 18:03:53,Yes,18–22,Male,KIET,Bachelors (BS/BA/BBA),Both,3–5 hours,2,4,4,3,4,4,5,5,3,5,4,4,4,4,4,4,4,3,5,3,4,3,3,4,4,4,5,3,5
+17/11/2025 18:12:51,Yes,18–22,Male,KIET,Bachelors (BS/BA/BBA),Both,1–3 hours,4,4,1,1,4,5,4,4,4,3,5,5,3,3,1,3,5,3,4,3,4,3,3,2,4,5,4,4,4
+17/11/2025 18:13:14,Yes,18–22,Male,KIET,Bachelors (BS/BA/BBA),Instagram,1–3 hours,4,4,4,2,3,5,5,4,1,3,4,4,4,4,3,1,4,2,2,4,2,4,4,2,4,4,2,4,2
+17/11/2025 18:20:41,Yes,18–22,Male,KIET,Bachelors (BS/BA/BBA),Both,1–3 hours,1,1,1,1,1,5,5,5,5,5,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,3
+17/11/2025 18:25:15,Yes,18–22,Female,KIET,Bachelors (BS/BA/BBA),Instagram,3–5 hours,5,5,4,5,4,4,4,3,4,1,4,4,3,3,3,1,3,1,1,4,3,5,3,4,5,4,2,4,1
+17/11/2025 18:28:55,Yes,23–26,Male,KIET,Bachelors (BS/BA/BBA),Both,Less than 1 hour,4,4,1,1,1,4,3,1,1,1,3,5,4,4,2,3,3,1,1,4,4,3,4,4,3,4,5,4,4
+17/11/2025 18:37:12,Yes,18–22,Male,KIET,Bachelors (BS/BA/BBA),Instagram,3–5 hours,2,4,2,2,4,5,4,4,4,2,4,4,5,4,2,2,4,2,2,4,2,4,4,2,4,2,2,4,4
+17/11/2025 18:37:47,Yes,23–26,Female,KIET,Bachelors (BS/BA/BBA),Instagram,5+ hours,4,4,4,4,4,3,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+17/11/2025 18:41:15,Yes,18–22,Female,KIET,Bachelors (BS/BA/BBA),Instagram,1–3 hours,4,3,2,1,1,3,2,3,5,3,5,5,1,3,1,1,1,2,4,4,3,3,1,1,5,5,3,4,2
+17/11/2025 18:44:30,Yes,18–22,Female,KIET,Bachelors (BS/BA/BBA),Instagram,3–5 hours,5,4,4,3,3,3,3,2,2,4,3,4,4,4,3,4,4,3,4,3,4,3,4,4,4,3,4,4,4
+17/11/2025 18:55:35,Yes,23–26,Male,KIET,Bachelors (BS/BA/BBA),Instagram,1–3 hours,5,4,3,3,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+17/11/2025 19:06:30,Yes,23–26,Female,IoBM,Masters (MBA/MS/MPhill),Instagram,Less than 1 hour,3,4,2,2,3,4,4,4,4,4,4,4,4,4,3,4,4,4,4,3,2,3,4,3,4,4,3,3,3
+17/11/2025 19:42:14,Yes,18–22,Female,KIET,Bachelors (BS/BA/BBA),Instagram,3–5 hours,3,3,2,3,2,3,3,3,3,3,4,3,3,3,3,3,3,3,3,3,2,3,3,3,3,3,3,3,3
+17/11/2025 20:15:52,Yes,23–26,Male,KIET,Bachelors (BS/BA/BBA),Instagram,1–3 hours,5,4,3,4,3,3,3,2,3,2,2,3,3,1,1,1,2,2,1,4,3,4,4,3,3,3,3,3,3
+17/11/2025 20:17:18,Yes,23–26,Female,KIET,Bachelors (BS/BA/BBA),Instagram,1–3 hours,4,4,3,4,5,4,4,2,2,1,4,5,5,4,3,2,4,3,2,4,4,4,5,2,4,4,3,5,2
+17/11/2025 20:28:17,Yes,23–26,Male,KIET,Masters (MBA/MS/MPhill),Both,3–5 hours,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,4,4,4,4,4,2,4,4,3,4,2,2,4,1
+17/11/2025 20:37:31,Yes,23–26,Male,KIET,Bachelors (BS/BA/BBA),Both,Less than 1 hour,2,2,3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+17/11/2025 21:25:09,Yes,23–26,Male,KIET,Bachelors (BS/BA/BBA),Instagram,5+ hours,5,5,2,5,5,5,5,5,5,5,5,5,5,5,3,4,4,4,4,4,3,3,3,2,4,4,4,4,4
+17/11/2025 21:39:46,Yes,18–22,Female,KIET,Bachelors (BS/BA/BBA),Instagram,1–3 hours,5,4,3,2,2,1,1,1,1,1,5,5,5,5,1,1,1,1,1,5,3,1,1,1,5,3,4,4,1
+17/11/2025 21:42:11,Yes,23–26,Male,KIET ,Bachelors (BS/BA/BBA),Instagram,5+ hours,5,4,4,4,4,5,4,5,4,2,4,4,4,4,2,1,4,1,1,4,1,5,5,1,5,1,1,4,1
+17/11/2025 23:06:46,Yes,18–22,Female,KIET,Bachelors (BS/BA/BBA),Both,1–3 hours,2,2,4,3,4,2,3,5,4,3,2,3,3,5,1,2,2,3,4,2,3,3,5,2,2,4,4,4,4
+17/11/2025 23:15:07,Yes,23–26,Female,KIET,Bachelors (BS/BA/BBA),Instagram,1–3 hours,4,2,2,1,1,4,4,2,2,2,2,3,2,3,1,1,1,1,1,5,4,4,4,2,4,4,2,4,2
+17/11/2025 23:21:16,Yes,18–22,Female,KIET,Bachelors (BS/BA/BBA),Instagram,1–3 hours,3,2,2,2,2,5,5,3,3,2,3,3,4,3,4,3,3,4,4,4,3,2,3,2,2,2,2,3,2
+19/11/2025 10:36:37,Yes,30+,Male,UIT,Bachelors (BS/BA/BBA),Instagram,3–5 hours,5,3,2,2,1,1,2,3,4,5,5,4,3,2,5,4,3,4,3,5,5,5,5,5,5,5,5,5,5
+19/11/2025 10:37:49,Yes,30+,Male,VIRTUAL UNIVERSITY,Bachelors (BS/BA/BBA),TikTok,1–3 hours,1,2,3,3,2,1,2,2,1,1,1,3,2,3,1,1,1,1,1,1,2,1,2,3,3,2,2,2,5
+19/11/2025 10:39:25,Yes,30+,Male,DHA SUFFA,Bachelors (BS/BA/BBA),Both,Less than 1 hour,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,2
+19/11/2025 10:41:20,Yes,27–30,Female,KIET,Bachelors (BS/BA/BBA),Both,Less than 1 hour,3,3,5,5,3,2,3,3,2,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+19/11/2025 10:42:23,Yes,23–26,Male,University of Karachi,Bachelors (BS/BA/BBA),Both,5+ hours,1,3,2,2,2,1,1,1,1,1,1,1,1,1,1,3,3,3,5,5,4,5,5,5,4,4,4,3,3
+19/11/2025 10:43:23,Yes,18–22,Female,MITE,Masters (MBA/MS/MPhill),TikTok,Less than 1 hour,1,3,3,2,2,1,4,2,5,3,2,2,4,4,5,1,1,1,1,1,2,1,1,2,2,1,1,1,2
+19/11/2025 10:44:24,Yes,23–26,Female,KIET,Masters (MBA/MS/MPhill),Instagram,3–5 hours,1,3,3,2,2,2,3,3,2,2,2,3,3,2,1,3,4,3,3,1,1,1,1,1,1,1,1,1,1
+19/11/2025 10:45:29,Yes,30+,Male,SALIM HABIB UNIVERSITY,Masters (MBA/MS/MPhill),Both,Less than 1 hour,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+19/11/2025 10:46:32,Yes,27–30,Male,MEHRAN UNIVERSITY,Bachelors (BS/BA/BBA),Both,Less than 1 hour,5,3,3,2,2,3,5,3,3,3,1,3,2,2,3,4,1,1,1,1,1,2,2,3,3,4,4,5,5
+19/11/2025 10:48:03,Yes,18–22,Male,KIET,Bachelors (BS/BA/BBA),Both,1–3 hours,1,2,3,4,5,1,2,3,4,5,1,1,2,2,1,2,2,1,1,1,3,3,2,3,1,1,1,1,1
+19/11/2025 10:49:24,Yes,27–30,Female,JINNAH WOMEN UNIVERSITY,Bachelors (BS/BA/BBA),Both,Less than 1 hour,5,3,2,2,1,5,3,3,2,1,5,3,4,2,4,4,2,3,3,3,5,5,5,1,1,1,1,1,1
+19/11/2025 10:50:30,Yes,30+,Female,KASBIT,Masters (MBA/MS/MPhill),TikTok,1–3 hours,1,2,2,2,3,1,3,3,2,2,2,3,3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+19/11/2025 10:51:35,Yes,23–26,Male,PRESTON UNIVERSITY ,Bachelors (BS/BA/BBA),Instagram,Less than 1 hour,1,2,3,3,3,1,2,2,1,1,1,2,3,4,1,2,2,2,2,5,1,1,1,1,1,1,1,1,1
+19/11/2025 10:52:48,Yes,23–26,Male,DADABHOY UNIVERSITY ,Bachelors (BS/BA/BBA),TikTok,Less than 1 hour,1,1,1,1,1,1,1,1,1,1,1,2,3,4,5,5,2,2,1,1,1,1,1,1,1,1,1,1,1
+19/11/2025 10:56:03,Yes,18–22,Male,SIMT UNIVERSITY,Bachelors (BS/BA/BBA),Instagram,Less than 1 hour,1,2,3,3,3,3,4,4,3,2,5,3,2,1,1,2,3,4,4,1,2,3,3,3,3,3,3,3,3
+21/05/2026 19:32:04,Yes,23–26,Female,KIET,Bachelors (BS/BA/BBA),Instagram,1–3 hours,4,4,4,4,4,5,4,3,3,3,4,4,4,4,4,3,4,4,4,4,4,4,4,3,4,4,3,4,3
+24/05/2026 12:19:34,Yes,18–22,Male,KIET,Bachelors (BS/BA/BBA),Instagram,3–5 hours,4,4,3,3,3,3,3,4,4,3,4,4,4,4,3,3,3,3,3,4,4,1,4,4,4,4,4,4,4
+24/05/2026 12:20:14,Yes,18–22,Male,KIET,Bachelors (BS/BA/BBA),Instagram,1–3 hours,5,4,2,3,4,3,2,2,2,2,3,4,4,3,1,1,1,1,1,5,3,4,4,2,4,2,3,4,3
+24/05/2026 12:36:34,Yes,18–22,Male,KIET,Bachelors (BS/BA/BBA),Both,1–3 hours,5,5,3,3,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+24/05/2026 13:22:04,Yes,18–22,Male,KIET,Bachelors (BS/BA/BBA),TikTok,1–3 hours,4,4,4,4,4,4,4,4,4,4,4,4,4,4,2,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+24/05/2026 13:57:41,Yes,18–22,Male,KIET,Bachelors (BS/BA/BBA),Instagram,Less than 1 hour,5,2,1,1,3,5,1,3,3,1,2,4,1,2,1,2,2,2,2,4,1,4,4,1,5,1,3,4,3
+24/05/2026 14:13:29,Yes,18–22,Female,KIET ,Bachelors (BS/BA/BBA),Instagram,Less than 1 hour,3,4,2,4,2,3,3,4,2,2,4,4,4,4,2,2,2,2,2,1,1,4,4,1,4,1,1,1,1
+24/05/2026 15:21:42,Yes,30+,Male,KIET,Bachelors (BS/BA/BBA),Instagram,Less than 1 hour,3,3,2,3,3,4,3,3,4,3,3,4,3,4,4,3,3,4,3,4,3,3,4,4,3,4,2,3,3
+24/05/2026 16:20:46,Yes,18–22,Female,KIET,Bachelors (BS/BA/BBA),Instagram,3–5 hours,5,3,3,3,4,4,5,4,2,5,5,2,4,2,1,4,4,3,4,5,1,4,2,1,4,2,1,3,1
+24/05/2026 19:16:21,Yes,23–26,Female,KIET,Bachelors (BS/BA/BBA),Both,3–5 hours,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,3,3,3,3,2,2,2,2,3,3,2,4,2,2
+24/05/2026 19:19:41,Yes,23–26,Female,KIET,Bachelors (BS/BA/BBA),Both,1–3 hours,5,3,4,5,4,5,4,5,5,5,4,4,4,4,2,4,4,3,2,5,3,3,4,3,4,4,1,3,2
+24/05/2026 19:24:44,Yes,18–22,Female,Bahria University,Bachelors (BS/BA/BBA),Instagram,3–5 hours,5,4,4,2,4,2,2,2,2,2,4,4,4,2,1,1,1,1,1,5,5,4,5,5,5,5,5,5,5
+24/05/2026 19:24:56,Yes,23–26,Female,FUUAST,Bachelors (BS/BA/BBA),Both,5+ hours,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+24/05/2026 19:51:57,Yes,18–22,Female,KIET,Bachelors (BS/BA/BBA),Instagram,1–3 hours,5,5,5,1,5,5,4,1,3,4,2,3,5,4,1,3,4,4,2,4,1,4,2,3,4,5,5,3,2
+24/05/2026 19:52:24,Yes,30+,Male,IQRA,Masters (MBA/MS/MPhill),Both,Less than 1 hour,4,4,4,4,4,5,3,3,1,1,4,4,4,4,4,4,4,4,3,3,1,2,2,3,3,1,1,1,5
+24/05/2026 20:07:59,Yes,18–22,Female,Textile institute of Pakistan ,Bachelors (BS/BA/BBA),Instagram,3–5 hours,4,3,2,3,3,3,3,4,2,2,4,4,3,4,2,2,3,2,2,4,2,3,3,2,3,3,2,3,2
+24/05/2026 22:08:43,Yes,23–26,Female,IQRA,Bachelors (BS/BA/BBA),Instagram,3–5 hours,5,5,5,5,5,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+24/05/2026 23:36:32,Yes,30+,Female,KIET,Bachelors (BS/BA/BBA),Both,1–3 hours,5,5,4,5,5,4,4,5,4,5,4,4,5,5,3,4,4,4,3,5,3,5,5,4,5,5,4,5,3
+25/05/2026 10:05:49,Yes,30+,Female,KIET ,Masters (MBA/MS/MPhill),Both,Less than 1 hour,3,2,3,3,3,4,4,4,4,3,2,4,4,4,2,2,2,2,2,4,2,4,4,3,4,4,2,4,2
+25/05/2026 11:18:23,Yes,23–26,Male,KIET,Masters (MBA/MS/MPhill),Instagram,1–3 hours,3,5,3,4,4,5,5,4,4,4,4,3,4,4,3,4,4,5,4,4,2,4,4,2,4,1,1,5,1
+25/05/2026 12:29:03,Yes,23–26,Male,Nazeer Hussain University,Masters (MBA/MS/MPhill),Instagram,1–3 hours,3,2,2,2,3,4,3,4,2,2,2,4,4,4,1,1,2,2,2,5,1,5,5,1,5,1,1,4,1
+26/05/2026 05:13:54,Yes,23–26,Female,Bahria University,Bachelors (BS/BA/BBA),Instagram,3–5 hours,5,5,4,3,3,5,5,5,4,2,3,4,4,3,3,4,3,4,2,5,5,5,5,4,3,5,5,4,5
+26/05/2026 20:31:52,Yes,23–26,Female,Bahria University,Bachelors (BS/BA/BBA),Both,1–3 hours,5,5,5,3,2,1,2,1,1,1,5,5,1,5,1,1,1,1,1,5,1,5,5,3,5,1,3,5,2
+27/05/2026 07:26:27,Yes,30+,Male,University of Karachi,Bachelors (BS/BA/BBA),TikTok,3–5 hours,4,4,4,5,5,5,5,5,5,5,4,5,5,4,4,4,5,5,5,5,2,5,4,2,4,2,1,4,2
+27/05/2026 21:08:34,Yes,18–22,Male,MAJU,Bachelors (BS/BA/BBA),TikTok,3–5 hours,5,5,3,4,5,5,5,5,5,5,2,2,4,2,5,5,4,4,5,5,1,5,3,1,5,1,2,5,1
+27/05/2026 21:18:49,Yes,23–26,Male,Bahria University,Bachelors (BS/BA/BBA),Instagram,Less than 1 hour,5,5,5,4,5,5,5,5,4,4,5,5,5,5,4,4,2,2,4,2,4,5,4,2,4,5,4,4,4
+27/05/2026 21:49:01,Yes,23–26,Female,KIET,Bachelors (BS/BA/BBA),Instagram,3–5 hours,5,4,4,3,4,5,5,3,3,4,5,5,5,4,4,3,4,4,4,3,4,4,4,4,3,4,4,3,3
+28/05/2026 05:15:52,Yes,30+,Male,IQRA,Masters (MBA/MS/MPhill),Both,1–3 hours,4,4,2,2,4,5,5,4,4,3,4,4,4,3,2,3,3,2,2,4,1,4,4,1,4,1,1,4,1
+28/05/2026 10:45:24,Yes,23–26,Female,KIET ,Bachelors (BS/BA/BBA),Both,1–3 hours,4,4,3,3,4,5,4,4,5,5,4,5,5,5,4,2,4,4,2,5,2,4,4,3,4,4,2,4,2
+28/05/2026 11:13:16,Yes,23–26,Male,IQRA,Bachelors (BS/BA/BBA),Instagram,1–3 hours,5,5,3,4,4,4,4,4,4,4,4,4,4,4,3,4,4,4,4,3,4,4,4,4,4,4,4,4,4
+28/05/2026 11:20:29,Yes,30+,Male,IQRA,Masters (MBA/MS/MPhill),Both,1–3 hours,5,4,3,3,3,4,4,4,4,4,4,5,4,4,4,4,4,5,5,4,4,5,5,5,5,5,5,4,4
+28/05/2026 11:29:45,Yes,23–26,Male,IQRA,Bachelors (BS/BA/BBA),Instagram,Less than 1 hour,4,4,3,3,3,5,5,3,3,3,3,3,3,3,3,3,3,3,3,5,3,5,5,1,5,3,1,5,1
+28/05/2026 11:42:59,Yes,30+,Female,KIET,PHD,Both,1–3 hours,5,5,5,5,5,5,5,5,5,5,5,5,5,5,3,4,5,5,3,3,3,4,4,3,4,4,4,4,4
+28/05/2026 11:52:22,Yes,18–22,Male,Cedar,Matriculation ,Both,5+ hours,5,5,5,5,5,4,4,4,4,4,5,5,5,5,4,3,5,5,3,5,3,5,5,2,5,5,5,5,2
+28/05/2026 11:57:06,Yes,23–26,Male,Fazaia College,Intermediate ,Both,5+ hours,5,5,5,5,5,4,4,5,4,4,5,5,5,5,2,2,4,4,2,5,2,5,4,2,5,5,2,5,2
+28/05/2026 12:22:08,Yes,23–26,Male,VIRTUAL UNIVERSITY,Bachelors (BS/BA/BBA),Both,3–5 hours,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+28/05/2026 12:52:33,Yes,23–26,Female,University of Karachi,Bachelors (BS/BA/BBA),Both,1–3 hours,3,3,2,1,2,4,2,4,4,2,2,4,2,2,1,2,1,2,2,3,2,2,2,2,5,2,4,3,3
+28/05/2026 12:56:10,Yes,23–26,Male,IQRA,Bachelors (BS/BA/BBA),TikTok,Less than 1 hour,3,3,3,2,3,2,2,3,3,1,3,4,4,2,1,2,1,2,1,4,4,4,4,2,3,2,2,4,1
+28/05/2026 14:34:31,Yes,23–26,Female,KIET,Bachelors (BS/BA/BBA),Instagram,5+ hours,5,5,3,4,4,4,4,4,4,4,4,4,3,4,2,2,3,2,2,4,2,4,4,3,4,3,2,4,2
+28/05/2026 14:46:09,Yes,27–30,Female,IQRA,Bachelors (BS/BA/BBA),Instagram,1–3 hours,5,1,1,1,1,5,5,5,1,1,1,1,1,1,1,1,1,1,1,5,1,5,5,1,5,5,1,5,1
+28/05/2026 15:03:05,Yes,27–30,Female,IQRA,Masters (MBA/MS/MPhill),Instagram,3–5 hours,5,5,4,2,2,4,4,4,4,2,4,4,4,2,4,4,4,4,4,4,2,4,2,2,4,2,5,5,1
+28/05/2026 19:36:13,Yes,18–22,Female,Bahria University,Bachelors (BS/BA/BBA),Instagram,5+ hours,4,4,3,4,5,5,5,4,5,4,4,5,5,3,2,2,4,3,1,5,3,5,5,1,5,4,4,4,2
+29/05/2026 10:21:41,Yes,30+,Female,KIET ,Masters (MBA/MS/MPhill),Instagram,3–5 hours,4,3,2,4,2,2,2,2,2,2,4,4,1,3,1,3,1,1,1,5,1,5,5,1,5,1,1,5,1
+29/05/2026 11:46:48,Yes,30+,Male,KIET,Masters (MBA/MS/MPhill),Both,Less than 1 hour,5,5,1,5,5,5,5,3,3,1,1,3,4,1,1,1,1,2,1,5,1,4,4,1,5,1,1,5,1
+29/05/2026 19:29:50,Yes,18–22,Female,Bahria University,Bachelors (BS/BA/BBA),Instagram,5+ hours,4,4,5,2,3,4,3,3,2,1,3,2,4,2,2,2,2,2,1,4,2,4,4,1,4,5,1,4,1
+29/05/2026 19:34:02,Yes,18–22,Female,Bahria University,Bachelors (BS/BA/BBA),Instagram,1–3 hours,5,5,1,5,4,5,5,5,5,2,4,4,3,2,4,3,3,2,4,2,2,4,4,3,3,4,5,5,3
+29/05/2026 19:34:19,Yes,18–22,Male,KIET,Bachelors (BS/BA/BBA),Instagram,1–3 hours,5,5,2,2,5,5,1,5,1,1,1,5,1,1,1,1,1,1,1,5,5,5,5,1,5,1,5,5,1
+29/05/2026 19:46:19,Yes,18–22,Female,Bahria University,Bachelors (BS/BA/BBA),Instagram,1–3 hours,4,4,4,2,3,4,4,4,3,2,1,1,2,1,4,4,3,3,3,3,4,3,3,4,2,4,4,3,5
+29/05/2026 20:07:44,Yes,18–22,Female,KIET,Bachelors (BS/BA/BBA),Instagram,1–3 hours,4,4,2,1,2,3,5,3,3,2,3,4,3,3,1,3,2,1,1,4,4,2,3,1,3,1,1,3,2
+29/05/2026 20:17:35,Yes,18–22,Male,SZABUL,Bachelors (BS/BA/BBA),Instagram,3–5 hours,5,5,5,4,4,1,1,1,1,1,2,4,3,2,1,1,1,1,1,4,5,4,4,5,5,5,5,5,5
+29/05/2026 21:26:11,Yes,18–22,Female,Bahria university ,Bachelors (BS/BA/BBA),TikTok,3–5 hours,5,5,4,4,4,5,5,1,5,3,3,5,5,4,5,5,3,5,3,3,3,2,5,4,3,4,5,4,4
+29/05/2026 21:30:21,Yes,18–22,Female,Bahria University ,Bachelors (BS/BA/BBA),Instagram,3–5 hours,4,4,3,2,3,4,4,4,4,4,4,4,4,4,3,3,4,3,3,4,5,3,3,3,3,2,4,3,4
+29/05/2026 21:30:38,Yes,18–22,Male,KIET,Bachelors (BS/BA/BBA),Instagram,1–3 hours,3,2,1,1,1,4,5,2,5,4,2,4,3,2,1,1,3,2,1,5,2,4,4,2,5,1,1,5,3
+29/05/2026 21:37:02,Yes,18–22,Female,Bahria University ,Bachelors (BS/BA/BBA),Instagram,3–5 hours,5,2,1,1,1,5,5,2,5,2,2,3,3,1,2,4,2,2,1,3,5,3,3,5,2,4,5,4,2
+29/05/2026 21:37:22,Yes,23–26,Female,Bahria University ,Bachelors (BS/BA/BBA),Instagram,3–5 hours,5,3,1,1,1,3,3,4,1,1,5,5,5,3,1,3,3,1,1,4,4,4,4,1,5,3,3,4,3
+29/05/2026 21:37:55,Yes,18–22,Female,KIET,Bachelors (BS/BA/BBA),Instagram,3–5 hours,5,5,5,5,5,5,5,2,5,1,5,5,5,5,1,1,1,1,1,5,1,5,5,1,5,2,5,3,4
+29/05/2026 21:46:56,Yes,18–22,Female,Bahria University ,Bachelors (BS/BA/BBA),Instagram,1–3 hours,5,5,4,3,5,5,5,2,5,4,5,5,5,5,2,1,4,3,5,5,3,4,5,2,5,4,5,4,4
+29/05/2026 21:59:23,Yes,18–22,Male,KIET,Bachelors (BS/BA/BBA),Instagram,5+ hours,1,3,4,4,5,1,5,5,5,5,4,2,2,4,5,5,5,5,5,1,5,3,1,5,1,5,5,2,5
+29/05/2026 22:13:40,Yes,23–26,Male,KIET,Bachelors (BS/BA/BBA),Instagram,1–3 hours,5,3,2,2,4,5,5,4,5,1,2,5,3,4,4,4,4,4,2,5,4,4,3,3,4,1,2,5,1
+29/05/2026 22:29:57,Yes,30+,Male,UET Lahore ,Bachelors (BS/BA/BBA),Both,5+ hours,5,5,5,5,5,5,5,5,5,3,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+29/05/2026 23:10:48,Yes,23–26,Female,KIET,Bachelors (BS/BA/BBA),Instagram,1–3 hours,2,2,1,2,3,5,5,1,2,1,2,5,3,4,2,2,5,2,1,5,2,2,3,2,5,5,5,3,3
+29/05/2026 23:49:24,Yes,18–22,Female,Bahria University,Bachelors (BS/BA/BBA),Instagram,3–5 hours,4,4,3,2,4,4,3,2,3,4,4,5,4,4,3,4,2,4,3,2,5,3,2,4,3,5,5,3,5
+30/05/2026 10:00:50,Yes,27–30,Male,Bahria University,Bachelors (BS/BA/BBA),TikTok,3–5 hours,5,4,5,5,4,5,4,5,5,4,3,3,4,4,4,3,3,4,2,5,2,5,5,2,5,2,1,4,2
+30/05/2026 10:51:13,Yes,23–26,Female,UOE lahore,Bachelors (BS/BA/BBA),Instagram,3–5 hours,4,1,1,1,1,5,4,4,4,5,2,2,4,4,2,4,2,2,4,4,4,4,4,2,4,4,4,4,4
+31/05/2026 00:07:00,Yes,18–22,Female,Bahria University ,Bachelors (BS/BA/BBA),Instagram,3–5 hours,3,3,2,3,1,5,5,2,3,2,3,3,4,3,3,3,4,1,3,4,2,4,4,2,4,1,3,2,1
+31/05/2026 11:46:38,Yes,23–26,Male,KIET,Bachelors (BS/BA/BBA),Instagram,5+ hours,5,5,3,3,3,3,4,4,4,3,3,4,4,4,4,4,3,4,4,4,4,3,4,4,4,4,3,4,4
+31/05/2026 12:32:48,Yes,18–22,Male,KIET,Bachelors (BS/BA/BBA),Instagram,3–5 hours,5,5,1,5,5,5,5,5,5,5,4,4,4,4,4,4,4,4,4,2,2,2,2,2,2,2,2,2,2
+31/05/2026 14:39:46,Yes,18–22,Male,KIET,Bachelors (BS/BA/BBA),Instagram,3–5 hours,5,5,4,5,5,4,5,5,3,3,5,5,5,4,2,2,3,2,4,4,2,3,4,4,3,4,5,3,5
+31/05/2026 19:19:53,Yes,18–22,Female,Bahria University ,Bachelors (BS/BA/BBA),Instagram,5+ hours,5,5,5,5,4,4,4,3,4,3,5,4,5,5,2,3,3,4,3,3,5,3,4,3,3,4,4,3,4
+01/06/2026 19:47:57,Yes,23–26,Male,ILMA,Bachelors (BS/BA/BBA),Instagram,1–3 hours,4,4,3,3,3,5,5,3,5,4,3,4,4,3,3,3,4,4,4,5,1,5,5,1,5,2,1,5,1
+02/06/2026 15:26:02,Yes,18–22,Male,Nazeer Hussain University,Bachelors (BS/BA/BBA),Both,3–5 hours,3,3,4,3,2,4,2,3,3,3,4,3,4,2,4,3,4,3,2,2,3,3,2,4,3,3,4,2,4
+02/06/2026 15:27:50,Yes,27–30,Female,Nazeer Hussain University,Bachelors (BS/BA/BBA),Both,5+ hours,4,4,4,3,3,4,4,2,4,2,3,3,5,4,4,4,2,2,3,3,4,3,3,4,3,2,4,3,5
+02/06/2026 15:31:21,Yes,30+,Male,Nazeer Hussain University,Bachelors (BS/BA/BBA),Both,Less than 1 hour,3,3,3,3,3,5,2,4,2,4,5,2,2,3,2,5,2,3,5,5,2,2,3,2,4,1,2,4,2
+02/06/2026 15:34:01,Yes,18–22,Male,Nazeer Hussain University,Bachelors (BS/BA/BBA),Instagram,Less than 1 hour,3,3,4,2,2,2,3,4,2,2,2,3,4,5,2,3,5,2,5,2,3,4,2,3,4,2,3,4,5
+02/06/2026 15:36:20,Yes,18–22,Male,Nazeer Hussain University,Bachelors (BS/BA/BBA),Instagram,1–3 hours,1,2,3,4,5,1,2,3,4,5,1,2,3,4,1,2,3,4,5,1,2,1,4,1,3,5,1,2,3
+02/06/2026 15:39:14,Yes,27–30,Male,Nazeer Hussain University,Bachelors (BS/BA/BBA),Instagram,1–3 hours,3,3,4,2,4,2,3,4,5,2,2,3,4,5,2,3,4,5,5,2,3,4,5,4,5,4,5,4,5
+02/06/2026 15:53:11,Yes,23–26,Male,Nazeer Hussain University,Masters (MBA/MS/MPhill),Both,3–5 hours,3,3,3,4,4,4,5,5,3,4,4,5,5,4,4,5,4,5,4,3,4,5,4,5,3,4,5,3,4
+02/06/2026 17:36:45,Yes,23–26,Male,Nazeer Hussain University,Bachelors (BS/BA/BBA),Instagram,Less than 1 hour,4,4,5,4,5,4,5,4,5,4,4,5,3,4,4,5,3,4,4,3,4,5,4,5,4,5,4,5,4
+02/06/2026 17:39:31,Yes,23–26,Male,Nazeer Hussain University,Bachelors (BS/BA/BBA),Instagram,Less than 1 hour,5,3,4,5,4,4,5,4,5,4,5,4,5,4,4,5,5,4,5,4,5,5,4,5,4,5,4,5,4
+02/06/2026 17:41:32,Yes,23–26,Male,Nazeer Hussain University,Bachelors (BS/BA/BBA),Instagram,1–3 hours,5,4,4,5,4,4,5,4,5,4,4,5,4,5,3,4,5,5,4,3,4,5,4,5,5,4,5,5,4
+02/06/2026 23:38:10,Yes,23–26,Female,KIET,Masters (MBA/MS/MPhill),Instagram,5+ hours,2,2,3,3,3,3,3,2,4,5,2,3,4,5,2,1,4,3,4,1,4,3,2,2,4,3,4,5,3
+02/06/2026 23:44:34,Yes,23–26,Male,KIET,Bachelors (BS/BA/BBA),Instagram,1–3 hours,5,1,2,1,1,4,5,5,5,1,2,2,3,2,2,3,3,3,1,3,4,3,2,5,5,1,3,3,3
+03/06/2026 11:39:54,Yes,27–30,Male,KIET,Bachelors (BS/BA/BBA),Instagram,1–3 hours,4,3,2,1,1,3,3,3,5,4,4,2,4,4,2,1,1,1,1,5,3,5,4,3,4,3,4,5,5
+03/06/2026 12:30:39,Yes,23–26,Male,KIPRS,Bachelors (BS/BA/BBA),Instagram,5+ hours,4,4,3,5,4,4,4,4,4,4,5,5,4,2,2,2,3,2,2,4,4,5,4,4,4,4,4,4,4
+03/06/2026 12:33:15,Yes,18–22,Female,KIPRS,Bachelors (BS/BA/BBA),TikTok,1–3 hours,3,4,4,1,4,3,2,4,1,3,5,4,4,5,1,1,2,2,3,4,4,4,4,3,4,4,2,2,2
+03/06/2026 12:39:50,Yes,23–26,Female,JSMU,Bachelors (BS/BA/BBA),Instagram,1–3 hours,4,4,1,1,4,2,1,5,1,1,4,4,2,2,1,2,2,1,3,5,4,3,4,2,4,2,4,5,2
+03/06/2026 12:43:59,Yes,18–22,Male,KIPRS,Bachelors (BS/BA/BBA),Both,1–3 hours,4,4,2,1,3,4,4,4,4,3,4,4,4,3,1,1,1,1,1,5,1,5,5,2,5,5,1,5,1
+03/06/2026 13:08:45,Yes,27–30,Male,KIET,Bachelors (BS/BA/BBA),Instagram,Less than 1 hour,1,1,1,1,1,5,1,1,1,1,1,2,1,1,1,1,1,1,1,5,3,3,5,5,5,5,1,5,1
+03/06/2026 13:09:02,Yes,23–26,Female,JSMU,Bachelors (BS/BA/BBA),Both,1–3 hours,3,3,1,1,1,1,1,4,4,1,5,5,5,5,1,1,1,1,1,5,5,1,5,1,5,5,1,5,1
+03/06/2026 13:29:40,Yes,27–30,Female,JSMU,Bachelors (BS/BA/BBA),Instagram,Less than 1 hour,1,1,2,2,2,1,2,2,4,4,3,2,2,1,1,1,2,3,3,1,2,2,2,2,2,3,4,3,3
+03/06/2026 13:41:34,Yes,23–26,Female,JSMU ,Bachelors (BS/BA/BBA),Instagram,1–3 hours,3,2,2,4,1,1,1,2,5,4,2,4,4,4,1,3,4,5,4,2,3,4,5,1,2,4,2,3,3
+03/06/2026 14:06:25,Yes,23–26,Female,JSMU,Bachelors (BS/BA/BBA),Instagram,Less than 1 hour,2,2,2,2,2,4,4,3,3,2,4,4,3,3,1,1,1,1,1,5,1,2,2,1,2,2,1,2,5
+03/06/2026 14:08:21,Yes,30+,Female,JSMU,Masters (MBA/MS/MPhill),Instagram,Less than 1 hour,4,4,2,2,4,5,5,5,5,5,5,5,5,5,1,1,1,1,1,5,1,5,5,1,5,1,1,5,1
+03/06/2026 14:19:06,Yes,23–26,Male,JPMC,Bachelors (BS/BA/BBA),Both,3–5 hours,4,2,4,3,3,3,4,5,4,3,3,4,4,3,3,3,3,3,3,4,2,2,3,2,3,5,2,4,3
+03/06/2026 15:13:28,Yes,27–30,Female,KIPRS,Bachelors (BS/BA/BBA),TikTok,5+ hours,4,4,2,2,4,4,2,4,2,1,5,4,2,4,1,4,4,2,1,5,5,5,4,4,5,5,4,2,4
+03/06/2026 15:48:14,Yes,27–30,Female,JSMU,Bachelors (BS/BA/BBA),Instagram,1–3 hours,4,4,2,2,2,3,2,2,4,2,2,4,4,2,2,1,1,1,1,5,1,5,5,1,5,4,1,5,1
+03/06/2026 15:53:17,Yes,27–30,Female,HIRM,Masters (MBA/MS/MPhill),Both,Less than 1 hour,5,4,5,3,2,5,4,3,3,1,4,4,5,2,1,3,3,2,2,5,1,4,5,1,5,1,1,5,1
+03/06/2026 16:25:48,Yes,27–30,Female,JSMU,Bachelors (BS/BA/BBA),Both,1–3 hours,4,4,3,3,2,4,3,5,2,2,3,3,3,1,3,2,2,2,2,5,2,5,5,1,4,1,1,5,1
+03/06/2026 17:05:22,Yes,23–26,Male,KIET,Bachelors (BS/BA/BBA),Instagram,Less than 1 hour,3,4,3,3,4,4,4,4,4,3,4,4,4,4,4,3,3,3,3,4,4,3,3,4,4,4,4,4,5
+03/06/2026 17:45:03,Yes,23–26,Female,JSMU,Bachelors (BS/BA/BBA),Instagram,5+ hours,5,4,5,4,4,5,5,5,4,1,4,4,5,5,2,1,1,2,2,5,1,4,4,2,4,3,2,4,2
+03/06/2026 18:27:37,Yes,18–22,Female,KIPRS,Bachelors (BS/BA/BBA),Instagram,1–3 hours,4,4,4,3,4,4,3,4,5,4,5,5,5,5,2,2,3,3,3,4,4,4,4,3,4,4,4,4,3
+03/06/2026 22:26:43,Yes,23–26,Female,JSMU,Bachelors (BS/BA/BBA),Instagram,Less than 1 hour,3,2,2,2,2,4,4,3,3,2,4,5,4,3,2,3,2,4,3,4,3,3,3,3,3,2,3,4,2
+04/06/2026 00:15:23,Yes,27–30,Female,JSMU,Bachelors (BS/BA/BBA),Instagram,1–3 hours,2,3,2,2,4,5,4,3,2,2,2,4,4,2,1,2,2,1,1,5,5,4,5,5,5,5,5,5,5
+05/06/2026 02:47:36,Yes,27–30,Female,KIPRS,Bachelors (BS/BA/BBA),Instagram,5+ hours,4,4,2,2,3,4,4,1,3,3,4,4,4,4,1,1,1,1,1,4,3,4,3,3,3,4,4,3,4
+05/06/2026 11:06:21,Yes,18–22,Female,IVS,Bachelors (BS/BA/BBA),Instagram,5+ hours,5,5,5,5,4,3,2,2,4,1,2,4,5,4,5,5,5,2,4,2,2,5,3,2,1,2,2,5,2
+05/06/2026 11:58:02,Yes,30+,Female,KASBIT,Masters (MBA/MS/MPhill),Instagram,Less than 1 hour,3,2,3,1,1,4,5,4,2,1,2,4,3,4,2,4,3,2,3,4,2,4,4,4,4,3,4,4,4
+05/06/2026 11:58:38,Yes,18–22,Female,IVS,Bachelors (BS/BA/BBA),Instagram,1–3 hours,5,4,5,5,5,5,5,4,5,5,5,5,5,5,5,5,3,4,5,2,4,4,5,2,3,3,3,4,1
+05/06/2026 13:01:49,Yes,18–22,Female,IVS,Bachelors (BS/BA/BBA),Instagram,1–3 hours,5,5,5,3,4,3,3,1,1,3,4,2,5,3,1,1,1,3,1,4,1,5,5,1,3,4,4,4,3
+05/06/2026 13:31:36,Yes,18–22,Female,IVS,Bachelors (BS/BA/BBA),Both,1–3 hours,4,3,3,4,4,3,3,3,3,3,3,4,4,3,1,1,2,1,1,4,2,5,4,3,4,3,3,5,3
+05/06/2026 14:04:03,Yes,23–26,Female,IVS,Bachelors (BS/BA/BBA),Instagram,5+ hours,5,5,3,3,5,3,5,5,4,3,3,4,5,3,5,4,5,5,4,3,5,3,3,4,5,4,5,3,5
+05/06/2026 14:26:29,Yes,23–26,Female,IVS,Bachelors (BS/BA/BBA),Both,1–3 hours,4,2,2,1,1,4,4,3,2,1,5,5,4,5,4,5,5,4,4,5,2,4,5,2,5,4,3,4,1
+05/06/2026 14:37:03,Yes,23–26,Female,IVS,Bachelors (BS/BA/BBA),Instagram,Less than 1 hour,4,3,3,2,2,4,1,5,1,4,3,4,4,3,1,1,1,1,1,5,1,5,5,1,5,1,1,5,1
+05/06/2026 16:09:46,Yes,18–22,Female,IVS,Bachelors (BS/BA/BBA),Instagram,5+ hours,5,5,4,3,4,4,5,5,5,4,4,4,5,3,4,4,4,2,3,3,4,3,3,3,3,2,3,3,2
+05/06/2026 17:36:40,Yes,18–22,Female,IVS,Bachelors (BS/BA/BBA),Instagram,3–5 hours,4,5,3,3,3,5,4,5,5,4,2,3,3,2,1,1,1,2,1,4,1,5,4,1,5,2,1,5,1
+05/06/2026 19:07:57,Yes,23–26,Female,KIPRS ,Bachelors (BS/BA/BBA),Instagram,1–3 hours,5,4,5,5,5,5,4,4,1,1,5,5,4,5,2,4,5,1,1,5,5,4,5,5,5,5,5,4,4
+05/06/2026 19:18:20,Yes,18–22,Female,IVS,Bachelors (BS/BA/BBA),Both,1–3 hours,4,4,3,3,4,3,3,1,2,2,1,1,3,2,2,2,2,1,1,4,4,4,4,2,2,3,4,4,2
+05/06/2026 20:29:02,Yes,18–22,Female,IVS,Bachelors (BS/BA/BBA),Instagram,1–3 hours,5,4,4,3,4,4,3,3,4,3,4,3,3,3,2,3,2,2,3,3,1,4,3,2,2,3,2,3,2
+05/06/2026 22:04:11,Yes,23–26,Male,IVS,Bachelors (BS/BA/BBA),Instagram,1–3 hours,4,3,3,3,4,4,4,4,4,3,3,4,4,3,1,1,3,1,1,4,3,4,4,3,4,4,1,4,1
+08/06/2026 00:38:21,Yes,18–22,Male,Nazeer Hussain University ,Bachelors (BS/BA/BBA),Both,1–3 hours,3,4,4,3,3,4,3,3,4,3,4,4,3,3,4,2,5,2,2,3,2,3,4,4,2,5,3,4,2
+08/06/2026 14:14:22,Yes,27–30,Male,Nazeer Hussain University ,Masters (MBA/MS/MPhill),Both,3–5 hours,3,4,3,4,4,4,3,3,5,3,2,4,3,5,3,3,3,2,4,2,4,3,3,4,4,2,2,4,2
+09/06/2026 12:03:07,Yes,23–26,Female,Nazeer Hussain University ,Masters (MBA/MS/MPhill),Both,1–3 hours,3,3,2,4,3,4,3,2,4,2,4,4,2,3,4,3,3,3,2,4,2,1,1,2,3,1,1,3,2
+10/06/2026 15:43:21,Yes,23–26,Female,Nazeer Hussain University ,Masters (MBA/MS/MPhill),Both,1–3 hours,3,4,4,3,3,3,2,5,2,2,3,3,4,3,4,4,3,3,3,3,2,4,3,2,3,2,1,4,1
+10/06/2026 15:48:23,No,27–30,Male,Nazeer Hussain University ,Bachelors (BS/BA/BBA),Both,5+ hours,4,2,3,4,3,3,3,4,3,3,4,3,3,2,3,4,4,5,2,2,2,3,3,3,4,4,2,3,5
+10/06/2026 15:52:15,Yes,30+,Male,Nazeer Hussain University ,Bachelors (BS/BA/BBA),Both,1–3 hours,2,2,4,3,5,2,4,3,3,3,3,3,4,4,2,2,4,3,3,5,5,5,5,4,1,1,1,1,2
+10/06/2026 15:54:35,Yes,30+,Male,Nazeer Hussain University ,Masters (MBA/MS/MPhill),Instagram,3–5 hours,2,2,4,3,4,5,2,2,3,3,5,4,4,3,1,2,3,2,2,2,4,4,4,1,5,5,2,1,3
+10/06/2026 16:05:32,Yes,23–26,Male,Nazeer Hussain University ,Masters (MBA/MS/MPhill),Both,1–3 hours,3,2,4,3,3,2,3,3,4,2,4,4,4,4,2,3,3,3,5,2,1,3,2,1,2,1,3,4,3
+10/06/2026 16:09:38,Yes,18–22,Male,Nazeer Hussain University ,Bachelors (BS/BA/BBA),Both,5+ hours,2,1,3,4,5,2,3,4,2,4,5,4,2,3,5,4,5,5,4,2,2,3,3,3,1,2,4,4,3
+10/06/2026 16:15:17,Yes,27–30,Male,Nazeer Hussain University ,Bachelors (BS/BA/BBA),Both,1–3 hours,3,2,3,4,3,5,4,4,3,3,4,3,4,4,3,2,3,3,2,4,1,2,2,3,4,2,3,3,4
+10/06/2026 16:38:42,Yes,23–26,Female,Nazeer Hussain University ,Masters (MBA/MS/MPhill),Both,3–5 hours,2,3,4,3,3,4,3,3,3,4,4,5,5,5,2,2,2,2,3,3,1,2,3,2,2,2,4,2,2
+12/06/2026 16:28:32,Yes,30+,Male,Nazeer Hussain University ,Masters (MBA/MS/MPhill),Instagram,1–3 hours,3,3,2,4,4,2,3,4,5,3,4,4,2,2,4,3,3,2,5,1,2,2,1,3,3,3,5,1,2
+12/06/2026 20:37:16,Yes,23–26,Male,Nazeer Hussain University ,Bachelors (BS/BA/BBA),Both,3–5 hours,2,2,1,2,3,1,1,2,4,3,3,2,4,4,4,2,3,4,4,4,2,3,2,4,4,4,1,4,5
+12/06/2026 20:49:42,Yes,23–26,Female,Nazeer Hussain University ,Bachelors (BS/BA/BBA),Both,3–5 hours,4,4,5,3,3,5,4,4,4,5,4,5,4,4,3,4,4,4,4,3,4,4,3,5,2,3,3,3,4
+12/06/2026 21:02:38,Yes,30+,Female,Nazeer Hussain University ,Masters (MBA/MS/MPhill),Both,Less than 1 hour,2,2,3,2,3,3,2,1,1,2,2,2,3,3,3,2,2,2,2,3,3,2,2,3,3,2,2,2,2
+12/06/2026 22:10:35,Yes,27–30,Female,Nazeer Hussain University ,Bachelors (BS/BA/BBA),Both,3–5 hours,3,2,3,4,3,4,4,3,3,3,3,3,4,4,3,3,4,4,2,4,2,4,3,2,3,3,3,3,3
+13/06/2026 11:02:07,Yes,23–26,Male,Nazeer Hussain University,Masters (MBA/MS/MPhill),Both,3–5 hours,2,2,3,4,3,4,3,2,3,4,3,3,3,3,2,3,4,2,3,3,2,3,3,2,3,4,3,2,3
+13/06/2026 11:24:58,Yes,23–26,Male,Nazeer Hussain University,Masters (MBA/MS/MPhill),TikTok,1–3 hours,2,3,2,3,4,2,2,3,3,3,3,3,2,3,4,4,3,3,2,3,4,2,2,2,3,2,3,3,2
+13/06/2026 11:30:44,Yes,30+,Male,Nazeer Hussain University,Masters (MBA/MS/MPhill),Both,3–5 hours,2,3,3,2,4,3,3,4,4,3,3,2,2,4,2,3,5,3,4,1,2,2,1,2,3,2,4,3,2
+13/06/2026 12:00:43,Yes,27–30,Female,Nazeer Hussain University,Masters (MBA/MS/MPhill),Both,3–5 hours,3,4,3,3,2,3,2,3,4,2,3,4,2,3,2,3,3,3,3,4,3,2,2,2,1,3,3,4,2
+15/06/2026 16:14:46,Yes,27–30,Female,Nazeer Hussain University,Bachelors (BS/BA/BBA),Both,3–5 hours,3,4,3,2,2,4,4,4,4,3,2,3,3,2,3,3,3,3,4,3,2,3,3,3,3,3,4,3,2
+15/06/2026 16:23:27,Yes,18–22,Male,Nazeer Hussain University,Bachelors (BS/BA/BBA),TikTok,Less than 1 hour,2,1,2,1,2,1,2,2,2,1,1,1,1,2,2,1,2,2,1,1,1,2,1,2,2,1,2,2,1
+30/06/2026 00:46:37,Yes,30+,Male,KFUEIT RYK,PhD,Both,1–3 hours,4,4,3,3,4,4,4,3,4,4,4,4,4,3,4,4,4,4,4,4,3,4,4,4,4,4,4,4,3
