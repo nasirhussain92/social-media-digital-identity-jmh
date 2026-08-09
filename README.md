@@ -109,6 +109,8 @@ Personally identifiable information has been removed to protect participant conf
 
 ## Reproducibility
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nasirhussain92/social-media-digital-identity-jmh/blob/main/notebooks/JMH_Reproducibility_Notebook.ipynb)
+
 The Google Colab notebook (`notebooks/JMH_Reproducibility_Notebook.ipynb`) reproduces the complete analytical workflow directly from the dataset included in this repository.
 
 Running the notebook (via the badge above, or `Runtime → Run all` in Colab) will reproduce the statistical analyses and outputs reported in the manuscript, including:
