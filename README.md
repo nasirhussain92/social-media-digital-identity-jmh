@@ -154,11 +154,7 @@ Creative Commons Attribution 4.0 International (CC BY 4.0) — see [`data/DATA_L
 ## Author
 
 **Nasir Hussain**
-
-Assistant Registrar
-
 Karachi Institute of Economics and Technology (KIET)
-
 Karachi, Pakistan
 
 GitHub: https://github.com/nasirhussain92
