@@ -3,6 +3,7 @@
 ## Research Reproducibility Package
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nasirhussain92/social-media-digital-identity-jmh/blob/main/notebooks/JMH_Reproducibility_Notebook.ipynb)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21925532.svg)](https://doi.org/10.5281/zenodo.21925532)
 [![License: MIT](https://img.shields.io/badge/Code%20License-MIT-yellow.svg)](LICENSE)
 [![License: CC BY 4.0](https://img.shields.io/badge/Data%20License-CC%20BY%204.0-lightgrey.svg)](data/DATA_LICENSE.txt)
 
@@ -127,7 +128,11 @@ Running the notebook (via the badge above, or `Runtime → Run all` in Colab) wi
 
 ## Citation
 
-Citation details will be updated following publication. In the meantime, please cite this repository using the metadata in `CITATION.cff`.
+If you use this repository, please cite it using the metadata in `CITATION.cff`, or via the DOI below:
+
+> Hussain, N. (2026). *Digital Identity and Emotional Coping Among Young Adults on Instagram and TikTok* [Data set and code]. Zenodo. https://doi.org/10.5281/zenodo.21925532
+
+Citation details for the accompanying journal article will be added following publication.
 
 ---
 
@@ -154,7 +159,9 @@ Creative Commons Attribution 4.0 International (CC BY 4.0) — see [`data/DATA_L
 ## Author
 
 **Nasir Hussain**
+
 Karachi Institute of Economics and Technology (KIET)
+
 Karachi, Pakistan
 
 GitHub: https://github.com/nasirhussain92
