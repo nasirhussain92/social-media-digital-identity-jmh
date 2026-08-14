@@ -10,6 +10,11 @@ authors:
 
 repository-code: "https://github.com/nasirhussain92/social-media-digital-identity-jmh"
 
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.21925532
+    description: "Archived reproducibility package (dataset, notebook, and analysis scripts) on Zenodo"
+
 license: MIT
 
 abstract: >
